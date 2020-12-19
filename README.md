@@ -1,4 +1,6 @@
-# 자바스크립트 그림판
+# 그림판
+
+[![GitHub](https://img.shields.io/github/license/hykeegj/paint-app)](LICENSE)
 
 ## 미리보기
 
